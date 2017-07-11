@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey there, you have come to an interesting place. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Based in Singapore, worked in finance, and co-founder of [Learnly](https://belearnly.com/). My major obsessions at the moment: energy currency, smart contracts and machine learning. 
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
