@@ -1,0 +1,12 @@
+---
+layout: default
+slider: slider2
+img1: tjj1.png
+img2: family2.jpg
+img3: family3.jpg
+category: Services
+title: TuitionJiejie Chatbot<br>Request Tutors Through Messenger
+description: |
+---
+  For those life moments and special anniversaries. Rates at S$60/hr<br><br> 
+  <a class="page-scroll" href="#contact">Enquire now</a>

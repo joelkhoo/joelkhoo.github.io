@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Rework"
-date:   2017-07-11 13:00:00 +0800
-categories: personal
----
-Where do you find free web-hosting that isn't that tacky? It's been almost 10 years since I last ran a proper blog.
-
-I will be populating this site up with content one weekend.

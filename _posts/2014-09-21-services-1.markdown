@@ -1,0 +1,23 @@
+---
+layout: default
+slider: slider1
+img1: learnly1.png
+img2: learnly2.png
+img3: events3.jpg
+category: Services
+title: Learnly Mobile App<br>Lessons Marketplace
+description: |
+---
+  Hybrid app developed for iOS and Android<br><br>Client Stack: Ionic Framework, AngularJS<br>Backend: Google Firebase, AWS S3, EC2, NodeJS<br><br>
+  Joel was the sole developer for the initial 6 months in 2015, before raising over USD200,000 of funding from investors and being joined by other partners. Key features of the app he directly coded:
+  - OAuth Login
+  - Realtime User-User Chat (with push notification)
+  - User profiles (geolocation and subject search)
+  - AWS S3 image upload and storage
+  - Deeplinking & OpenGraph sharing
+  - Web desktop version
+  <br><br>
+ Joel managed a team of 3 developers on the feature pipeline, while performing weekly code and security reviews
+  <br><br>
+  <a href="https://itunes.apple.com/sg/app/learnly-find-tutor-singapore-malaysia-tuition/id1059631214?mt=8">Demo</a>
+  <a href="http://bitbucket.org/belearnly/learnly-mobile/">Bitbucket</a>
