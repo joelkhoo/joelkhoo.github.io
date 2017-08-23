@@ -1,12 +1,16 @@
 ---
 layout: default
 slider: slider2
-img1: tjj1.png
-img2: family2.jpg
+img1: t1.png
+img2: t2.png
 img3: family3.jpg
 category: Services
-title: TuitionJiejie Chatbot<br>Request Tutors Through Messenger
+title: TuitionJiejie Chatbot<br>Customer Engagement
 description: |
 ---
-  For those life moments and special anniversaries. Rates at S$60/hr<br><br> 
-  <a class="page-scroll" href="#contact">Enquire now</a>
+  Chatbot that recommends tutors based on subject and location<br><br> 
+  Stack: Google API.AI, AWS EC2, NodeJS
+  <br><br>
+  TJJ was created leveraging on the REST API behind Learnly to recommend tutors. Customers were deeplinked into the Learnly app, or otherwise shown a web browser version 
+  <br><br>
+  <a href="https://www.facebook.com/tuitionjiejie/">Demo</a>
